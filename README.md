@@ -1,4 +1,7 @@
-#DRIP
+# DRIP
+
+# As of 2.63 Drip is being transitioned for support and evolution by F+F. Please email lakshmi@synergicdesign.com for any other details while in transition.
+
 
 **v2.63**  *1 March 2017*
 
